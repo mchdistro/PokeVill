@@ -367,6 +367,26 @@
           }
         },
         {
+          "id": "pam.pamhc2crops:pamhc2crops:${version}@jar",
+          "name": "Pam's HarvestCraft 2 Crops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791032,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/pamhc2crops-1.16.3-1.0.1.jar",
+            "MD5": "5be4a75c1638ca784698bf9f0427b63c"
+          }
+        },
+        {
+          "id": "com.pam:pamhc2trees:1.0.1@jar",
+          "name": "Pam's HarvestCraft 2 Fruit Trees",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545339,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/pamhc2trees-1.16.3-1.0.1.jar",
+            "MD5": "eaccf7a7856ededfc92ebf4b2e74d8b8"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.16.5-2.5.16@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -384,6 +404,26 @@
             "size": 5399017,
             "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7_MOD.jar",
             "MD5": "54813be4c7525294a71b6ee171cbd9fe"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4515,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 384,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
           }
         },
         {
