@@ -367,16 +367,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5399017,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7_MOD.jar",
-            "MD5": "54813be4c7525294a71b6ee171cbd9fe"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.16.5-2.5.16@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -384,6 +374,16 @@
             "size": 7699912,
             "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.16.jar",
             "MD5": "a6cf1fb7af2d25322f2b9cd4db75cf73"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G7_MOD:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G7_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 5399017,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7_MOD.jar",
+            "MD5": "54813be4c7525294a71b6ee171cbd9fe"
           }
         },
         {
