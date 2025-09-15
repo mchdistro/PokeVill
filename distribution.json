@@ -411,7 +411,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4515,
+            "size": 4519,
             "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/options.txt",
             "path": "options.txt"
           }
@@ -431,9 +431,9 @@
           "name": "pokevill.zip",
           "type": "File",
           "artifact": {
-            "size": 14579371,
+            "size": 14684755,
             "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/resourcepacks/pokevill.zip",
-            "MD5": "a7d3c278765237158e0e682df29175d7",
+            "MD5": "50c62266d5e5df0c451304b4bcfee0a0",
             "path": "resourcepacks/pokevill.zip"
           }
         },

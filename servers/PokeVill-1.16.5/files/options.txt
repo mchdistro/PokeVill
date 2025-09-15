@@ -33,7 +33,7 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","file/pokevill"]
+resourcePacks:["vanilla","mod_resources","file/pokevill.zip"]
 incompatibleResourcePacks:[]
 lastServer:pokevil.inline.run
 lang:ko_kr
