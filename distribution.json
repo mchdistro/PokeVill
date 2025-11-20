@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "PokeVill-1.16.5",
-      "name": "포켓빌",
+      "id": "ST-1.16.5",
+      "name": "포켓빌_ST",
       "description": "Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://github.com/mchdistro/PokeVill/raw/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "reade.p-e.kr",
+      "version": "2.0.0",
+      "address": "pokevill.p-e.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12457390,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791032,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/pamhc2crops-1.16.3-1.0.1.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/forgemods/required/pamhc2crops-1.16.3-1.0.1.jar",
             "MD5": "5be4a75c1638ca784698bf9f0427b63c"
           }
         },
@@ -382,7 +382,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 545339,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/pamhc2trees-1.16.3-1.0.1.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/forgemods/required/pamhc2trees-1.16.3-1.0.1.jar",
             "MD5": "eaccf7a7856ededfc92ebf4b2e74d8b8"
           }
         },
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 427522531,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.13-universal.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "08f2991eaf207cdcc2bf8a48866d3b52"
           }
         },
@@ -402,7 +402,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7699912,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.16.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.16.jar",
             "MD5": "a6cf1fb7af2d25322f2b9cd4db75cf73"
           }
         },
@@ -412,7 +412,7 @@
           "type": "Library",
           "artifact": {
             "size": 5399017,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7_MOD.jar",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7_MOD.jar",
             "MD5": "54813be4c7525294a71b6ee171cbd9fe"
           }
         },
@@ -422,7 +422,7 @@
           "type": "File",
           "artifact": {
             "size": 4519,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/options.txt",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -432,19 +432,19 @@
           "type": "File",
           "artifact": {
             "size": 384,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/optionsshaders.txt",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
         },
         {
-          "id": "pokevill.zip",
-          "name": "pokevill.zip",
+          "id": "pokevill_st.zip",
+          "name": "pokevill_st.zip",
           "type": "File",
           "artifact": {
-            "size": 14684755,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/resourcepacks/pokevill.zip",
-            "MD5": "50c62266d5e5df0c451304b4bcfee0a0",
-            "path": "resourcepacks/pokevill.zip"
+            "size": 14450487,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/resourcepacks/pokevill_st.zip",
+            "MD5": "085290329bf7f5d9042299075055e575",
+            "path": "resourcepacks/pokevill_st.zip"
           }
         },
         {
@@ -452,9 +452,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 76,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/servers.dat",
-            "MD5": "4dd32f78e09f22c36f6bb3c98b87a061",
+            "size": 79,
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/servers.dat",
+            "MD5": "a4b89ba8a9f8c3e5a6ec46c3041d7d48",
             "path": "servers.dat"
           }
         },
@@ -464,7 +464,7 @@
           "type": "File",
           "artifact": {
             "size": 13803650,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/Arc_v0.15.2.zip",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/Arc_v0.15.2.zip",
             "MD5": "d8cab9ba3572640e1b56a27d1d3692ab",
             "path": "shaderpacks/Arc_v0.15.2.zip"
           }
@@ -475,7 +475,7 @@
           "type": "File",
           "artifact": {
             "size": 954784,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/BSL_v8.2.09.zip",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/BSL_v8.2.09.zip",
             "MD5": "4443556b4e0d63394f0df1297e484454",
             "path": "shaderpacks/BSL_v8.2.09.zip"
           }
@@ -486,7 +486,7 @@
           "type": "File",
           "artifact": {
             "size": 4280314,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/Exposa+4.12.zip",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/Exposa+4.12.zip",
             "MD5": "ed4edaa50ef4443871cd40a2a49d1746",
             "path": "shaderpacks/Exposa+4.12.zip"
           }
@@ -497,7 +497,7 @@
           "type": "File",
           "artifact": {
             "size": 7062638,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1.zip",
             "MD5": "8faeb04d9953c9b10b0794acafc4c1aa",
             "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip"
           }
@@ -508,7 +508,7 @@
           "type": "File",
           "artifact": {
             "size": 55,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt",
             "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
           }
         },
@@ -518,7 +518,7 @@
           "type": "File",
           "artifact": {
             "size": 4277174,
-            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/PokeVill-1.16.5/files/shaderpacks/shaders.zip",
+            "url": "https://github.com/mchdistro/PokeVill/raw/main/servers/ST-1.16.5/files/shaderpacks/shaders.zip",
             "MD5": "494e810b8189de8c6fa2888b312110fa",
             "path": "shaderpacks/shaders.zip"
           }

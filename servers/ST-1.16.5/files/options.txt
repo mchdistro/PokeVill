@@ -33,9 +33,9 @@ graphicsMode:0
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","file/pokevill.zip"]
+resourcePacks:["vanilla","mod_resources","file/pokevill_st.zip"]
 incompatibleResourcePacks:[]
-lastServer:pokevil.inline.run
+lastServer:pokevill.p-e.kr
 lang:ko_kr
 chatVisibility:0
 chatOpacity:1.0
@@ -106,16 +106,6 @@ key_Scene2 start/pause:key.keyboard.keypad.2
 key_Scene3 start/pause:key.keyboard.keypad.3
 key_Scene reset:key.keyboard.keypad.0
 key_Quest Log:key.keyboard.l
-key_key.push_to_talk:key.keyboard.unknown
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.n
-key_key.disable_voice_chat:key.keyboard.apostrophe
-key_key.hide_icons:key.keyboard.right.bracket
-key_key.voice_chat:key.keyboard.m
-key_key.voice_chat_settings:key.keyboard.period
-key_key.voice_chat_group:key.keyboard.g
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.sendpokemon:key.keyboard.z
 key_key.nextpokemon:key.keyboard.down
 key_key.previouspokemon:key.keyboard.up
@@ -135,6 +125,16 @@ key_key.pcsearch:key.keyboard.s
 key_key.pcrename:key.keyboard.r
 key_key.pcwallpaper:key.keyboard.w
 key_key.pixelmonoptions:key.keyboard.comma
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.n
+key_key.disable_voice_chat:key.keyboard.apostrophe
+key_key.hide_icons:key.keyboard.right.bracket
+key_key.voice_chat:key.keyboard.m
+key_key.voice_chat_settings:key.keyboard.period
+key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 soundCategory_master:0.043240376
 soundCategory_music:0.0
 soundCategory_record:1.0

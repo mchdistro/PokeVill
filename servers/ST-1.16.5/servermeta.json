@@ -1,11 +1,11 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/PokeVill/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "포켓빌",
+    "version": "2.0.0",
+    "name": "포켓빌_ST",
     "description": "Minecraft 1.16.5 (Forge v36.2.39)",
     "icon": "https://github.com/mchdistro/PokeVill/raw/main/server-icon.png",
-    "address": "reade.p-e.kr",
+    "address": "pokevill.p-e.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
